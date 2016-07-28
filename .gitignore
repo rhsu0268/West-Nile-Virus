@@ -5,4 +5,7 @@
 # Temporary data
 .ipynb_checkpoints/
 data
+<<<<<<< HEAD
 prediction-1
+=======
+>>>>>>> 4d4a52f215a73544cb052a11b7896b59d8e8436c
